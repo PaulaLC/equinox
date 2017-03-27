@@ -1,7 +1,6 @@
 ### Elevator pitch
 
 # Packages
-library(lubridate)
 library(dplyr)
 
 # Init parameters
